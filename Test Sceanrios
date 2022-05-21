@@ -1,0 +1,33 @@
+FUNCTIONAL SCENARIOS
+Login Text Field---> To check that Login text field should accept alpabet values.
+To check that Login text field should not accept the numeric content.
+To check that Login text field should not accept the special characters expect underscore.
+To check that Login text field should accept alphabets with special character( _ )
+To check that Login text field should accept of combination of Alphabets, Numbers and Special charcters.
+To check that login is not possible with the wrong credentials.
+To check that an error message appears for an invalid Login name.
+
+Password Text Field---> To check that Login is possible with a valid password.
+To check that limit of characters for password matches with the specified range.
+To check that an error message appears for an invalid password.
+To check that if the login is possible with the new password after the password is reset.
+To check that login is not possible with the wrong credentials.
+To check that Password text field font size, colour, and style match the specified requirements.
+
+Save password Check Box---> To check that checkbox is selectable or not.
+To check that checkbox alignment on the form page is proper or not.
+To check that if the label for the checkbox is properly aligned.
+To check that functionality of the check box woithout selecting checkbox.
+To check that proper alert message for check box showing or not.
+To check that selection of the checkbox gets disabled or not during page loading.
+To check that Tick on check box is properly visible to the user or not.
+
+Login Button---> To chekc that Login button should be enabeld.
+To check that Login button should be clickable.
+To check that user will be able to login with a valid username and valid password.
+To check that user cannot login with a valid username and invalid password.
+To check that when user click on login button without entering data in mandatory field then error message for mandatory field showing or not.
+To check that page redirect to the expected page or not when user enter the valid dta in all the fields.
+To check that login button size/colour as per requirement or not.
+To check that button name showing as per requirement or not.
+
