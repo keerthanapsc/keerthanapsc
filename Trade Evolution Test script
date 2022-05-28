@@ -1,0 +1,14 @@
+class TradeEvolution
+{
+public static void(String[] args)
+{
+System.setProperty(key, value);
+WebDriver driver=new ChromeDriver();
+driver.get("https://play.google.com/store/apps/details?id=com.traderevolution");
+Thread.sleep(1000);
+driver.findElement(By.xpath("locator value")).sendKeys("qa_test");
+driver.findElement(By.xpath("locator value")).sendKeys("qa_test@");
+driver.findElement(By.xpath("locator value")).click();
+driver.findElement(By.xpath("locator value")).click();
+}
+}
